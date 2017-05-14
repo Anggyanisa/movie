@@ -16,10 +16,6 @@ import id.sch.smktelkom_mlg.privateassigment.xirpl504.tamovie.R;
 import id.sch.smktelkom_mlg.privateassigment.xirpl504.tamovie.model.Result;
 
 
-/**
- * Created by hyuam on 12/10/2016.
- */
-
 public class SourceAdapter extends RecyclerView.Adapter<SourceAdapter.ViewHolder> {
     Context context;
     ArrayList<Result> list;
