@@ -27,11 +27,12 @@ import id.sch.smktelkom_mlg.privateassigment.xirpl504.tamovie.service.VolleySing
 /**
  * A simple {@link Fragment} subclass.
  */
-public class page1 extends Fragment {
+public class page3 extends Fragment {
     ArrayList<Result> mList = new ArrayList<>();
     SourceAdapter mAdapter;
 
-    public page1() {
+
+    public page3() {
         // Required empty public constructor
     }
 
@@ -40,7 +41,7 @@ public class page1 extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_page1, container, false);
+        return inflater.inflate(R.layout.fragment_page3, container, false);
     }
 
     @Override
@@ -57,7 +58,7 @@ public class page1 extends Fragment {
     }
 
     private void downloadDataSources() {
-        String url = "https://api.themoviedb.org/3/movie/now_playing?api_key=05636b76583c5a9b5388e7968b49af48";
+        String url = "https://api.themoviedb.org/3/movie/top_rated?api_key=05636b76583c5a9b5388e7968b49af48";
 
         GsonGetRequest<SourcesResponse> myRequest = new GsonGetRequest<SourcesResponse>
                 (url, SourcesResponse.class, null, new Response.Listener<SourcesResponse>() {

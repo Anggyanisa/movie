@@ -94,17 +94,14 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_camera) {
             // Handle the camera action
             fragment = new page1();
-            setTitle("Top Rated");
+            setTitle("Now Playing");
         } else if (id == R.id.nav_gallery) {
             fragment = new page2();
             setTitle("Coming Soon");
         } else if (id == R.id.nav_slideshow) {
+            fragment = new page3();
+            setTitle("Top Rate");
 
-        } else if (id == R.id.nav_manage) {
-
-        } else if (id == R.id.nav_share) {
-
-        } else if (id == R.id.nav_send) {
 
         }
 
