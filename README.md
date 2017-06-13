@@ -42,7 +42,7 @@
 ### F. (Library dari Local Database)
 
 <br>
-<P> Glide & volley </P>
+<P> SQLite Dasar </P>
 <br>
 
 ### G. (DERKRIPSI APLIKASI)
