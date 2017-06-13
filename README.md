@@ -70,4 +70,4 @@ seperti daftar film yang sekarnag di putar , daftar film yang akan tayang, dan d
 ![screenshot_2017_5_14_20_27_58](https://cloud.githubusercontent.com/assets/22116905/26034677/516fa25e-38ea-11e7-8fd1-dd452e7fd94a.png)
 ![screenshot_2017_5_14_20_28_3](https://cloud.githubusercontent.com/assets/22116905/26034675/516f278e-38ea-11e7-90da-ff6446d1eee6.png)
 ![screenshot_2017_5_14_20_27_46](https://cloud.githubusercontent.com/assets/22116905/26034676/516fb12c-38ea-11e7-96d1-fe0b4d4e78a6.png)
-![ss3](https://user-images.githubusercontent.com/22116905/27062285-400f4168-5014-11e7-8b77-3e65248c85ca.png)
+![ss3](https://user-images.githubusercontent.com/22116905/27062335-89bf43da-5014-11e7-8bc3-37d7366e8196.png)
